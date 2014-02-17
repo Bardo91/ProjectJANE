@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ProyectJANE-smartphone</string>
+    <string name="action_settings">Settings</string>
+    <string name="speak_button">Speak</string>
+    <string name="string_in_out">No data send or received</string>
+    <string name="retry_conn_button">Retry Connection</string>
+
+</resources>

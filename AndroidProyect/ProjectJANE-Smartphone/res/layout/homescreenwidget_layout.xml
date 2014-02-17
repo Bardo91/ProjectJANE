@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="4dp"
+    android:background="@drawable/widgetbackground"
+    android:gravity="center"
+    android:orientation="horizontal" >
+
+    <ImageButton
+        android:id="@+id/lightwidgetbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/lightbuttonwidget" />
+
+    <ImageButton
+        android:id="@+id/fanbuttonwidget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/fanbuttonwidget" />
+
+    <ImageButton
+        android:id="@+id/pcbuttonwidget"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/pcbuttonwidget" />
+
+    <ImageButton
+        android:id="@+id/appbuttonwidget1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/bluetoothbuttonwidget" />
+
+</LinearLayout>
